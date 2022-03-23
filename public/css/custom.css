@@ -1,0 +1,9 @@
+/* Custom CSS */
+
+.min-h-screen {
+    min-height: 60vh !important;
+}
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: transparent !important;
+}

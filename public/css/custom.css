@@ -7,3 +7,8 @@
     --tw-bg-opacity: 1;
     background-color: transparent !important;
 }
+.sidebar .nav-item .nav-link {
+    padding: 0.5rem;
+    margin-left: 1rem;
+    width: 12rem;
+}

@@ -4,7 +4,6 @@
     <!-- Page Wrapper -->
     <div id="wrapper">
         <!-- Sidebar -->
-        @include('user.sidebar')
         <!-- End of Sidebar -->
 
         <!-- Content Wrapper -->
@@ -12,7 +11,6 @@
 
             <!-- Main Content -->
             @include('user.main')
-            @include('user.table')
             <!-- End of Main Content -->
 
             <!-- Footer -->

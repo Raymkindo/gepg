@@ -12,3 +12,11 @@
     margin-left: 1rem;
     width: 12rem;
 }
+.centeranydiv {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    }
+.form-control {
+        border-radius: 0.5rem !important;
+}

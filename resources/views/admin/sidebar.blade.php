@@ -19,6 +19,11 @@
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Main</span></a>
             </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="{{ url('upload')}}">
+                    <i class="fas fa-fw fa-upload-alt"></i>
+                    <span>Upload</span></a>
+            </li>
 
             <!-- Divider -->
             <hr class="sidebar-divider">

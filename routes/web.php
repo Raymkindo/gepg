@@ -33,3 +33,8 @@ route::get('redirect',[HomeController::class,'redirect']);
 
 route::get('/home',[HomeController::class,'index']);
 
+route::get('upload',[HomeController::class,'upload']);
+
+// Route for Excell Import
+route::get('import-users',[HomeController::class,'importUsers'])->name('import');
+route::post('/upload-users',[HomeController::class,'uploadUser'])->name('upload');

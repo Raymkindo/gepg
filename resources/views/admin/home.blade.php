@@ -12,6 +12,7 @@
 
             <!-- Main Content -->
             @include('admin.main')
+            @include('admin.excelupload')
             <!-- End of Main Content -->
 
             <!-- Footer -->
